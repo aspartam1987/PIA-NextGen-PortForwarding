@@ -1,5 +1,6 @@
 # PIA NextGen Servers Port Forwarding + Transmission support - Unofficial
-New PIA pfSense (Private Internet Access) port forwarding API script for next gen servers. Tested on pfSense 2.7.0-RELEASE (amd64) and transmission-daemon 4.0.3. 
+New PIA (Private Internet Access) port forwarding API script for next gen servers.
+Tested on pfSense 2.7.0-RELEASE (amd64) and transmission-daemon 4.0.3. 
 
 # This guide is based on fm407's original guide for Transmission. See https://github.com/fm407/PIA-NextGen-PortForwarding
 
